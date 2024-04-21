@@ -1,3 +1,7 @@
 .text-orange {
     color: rgb(255, 104, 3);
 }
+
+.bg-orange {
+    background-color: rgb(255, 104, 3);
+}
